@@ -1,5 +1,5 @@
 # Evaluating GR4J Parameter Transferability Across U.S. Catchments
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kiermann11698/2026-Environmental-Data-Science-GR4J/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kiermann11698/2026-Environmental-Data-Science-GR4J/main)
 
 This project uses hydrologic modeling and machine learning to evaluate how GR4J rainfall-runoff model parameters can be regionalized across U.S. catchments. The goal is to improve streamflow prediction in ungauged or poorly gauged watersheds by transferring calibrated model parameters using catchment descriptors, spatial proximity, and machine learning methods.
 
